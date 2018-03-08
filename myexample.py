@@ -1,4 +1,3 @@
 print('hello world')
 print('new')
-print('test')
-print('test2')
+print('test1')
